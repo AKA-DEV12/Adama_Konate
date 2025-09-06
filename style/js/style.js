@@ -356,12 +356,12 @@ function renderSkills() {
 
     // Associe chaque catégorie à son image PNG
     const categoryImages = {
-        "Communication": "media/communication.PNG",
-        "Écriture": "media/ecriture.PNG",
-        "Business": "media/business.PNG",
-        "Juridique": "media/juridique.JPG",
-        "Digital": "media/digital.PNG",
-        "Formation": "media/formation.JPG",
+        "Communication": "media/communication.png",
+        "Écriture": "media/ecriture.png",
+        "Business": "media/business.png",
+        "Juridique": "media/juridique.jpg",
+        "Digital": "media/digital.jpg",
+        "Formation": "media/formation.jpg",
         // Ajoute ici toutes tes autres catégories
     };
 
