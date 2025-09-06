@@ -360,7 +360,7 @@ function renderSkills() {
         "Écriture": "media/ecriture.png",
         "Business": "media/business.png",
         "Juridique": "media/juridique.jpg",
-        "Digital": "media/digital.jpg",
+        "Digital": "media/digital.png",
         "Formation": "media/formation.jpg",
         // Ajoute ici toutes tes autres catégories
     };
